@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="10" name="Test">
+		<classes>
+			<class name="WizSimulator.SessionOne" />
+			<class name="WizSimulator.SessionTwo" />
+			<class name="WizSimulator.SessionThree" />
+			<class name="WizSimulator.SessionFour" />
+			<class name="WizSimulator.SessionFive" />
+			<class name="WizSimulator.SessionSix" /> 
+			<class name="WizSimulator.SessionSeven" />	
+			<class name="WizSimulator.SessionEight" />
+			
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+
+
+<!-- ctrl+shift+f -->
